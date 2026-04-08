@@ -12,3 +12,4 @@ For inquiries, please contact innovation@janelia.hhmi.org and reference this rep
 
 To cite the designs, please use DOI: https://doi.org/10.25378/janelia.31963896
 
+Supersedes Flintbox ID: 2018-024
