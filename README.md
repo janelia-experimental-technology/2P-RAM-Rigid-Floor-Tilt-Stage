@@ -1,6 +1,6 @@
 ### 2P-RAM Rigid Floor Tilt Stage
 
-Various custom components have been designed for use with the 2P-RAM, including head plates and a tilt stage. The original tilt stage is a motorized positioner intended for use with an air-suspended ball treadmill, which can be somewhat complex and expensive. An alternative is a rigid floor for the test subject with a single degree of freedom for adjustment. The design is compatible with the head plates offered in another repo from the Janelia Experimental Technology (jET) GitHub org.
+Various custom components have been designed for use with the 2P-RAM, including head plates and a motorized head positioner tilt stage. The original tilt stage is a motorized positioner intended for use with an air-suspended ball treadmill, which can be somewhat complex and expensive. An alternative is a rigid floor for the test subject with a single degree of freedom for adjustment. The design is compatible with the head plates offered in another repo from the Janelia Experimental Technology (jET) GitHub org.
 
 
 
